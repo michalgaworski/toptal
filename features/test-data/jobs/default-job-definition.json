@@ -1,0 +1,41 @@
+{
+    "title": "DefaultJobTitle",
+    "description": "Default Job Description...",
+    "work_type": "Mixed",
+    "time_length_onsite": "40%",
+    "desired_commitment": "full_time",
+    "tz_preference": "yes",
+    "time_zone": "Azores",
+    "hours_overlap": "5",
+    "desired_start_date_offset": "30",
+    "estimated_length": "2-3 months",
+    "languages": [
+        "English"
+    ],
+    "skills": {
+        "Languages": {
+            "Ruby": "Competent"
+        },
+        "Frameworks": {
+            "RubyMotion": "Expert"
+        },
+        "Libraries\/APIs": {
+            "jQuery": "Expert"
+        },
+        "Tools": {
+            "Lightroom": "Competent"
+        },
+        "Paradigms": {
+
+        },
+        "Platforms": {
+            "Android": "Strong"
+        },
+        "Storage": {
+            "NoSQL": "Strong"
+        },
+        "Misc": {
+            "Poledancing": "Expert"
+        }
+    }
+}

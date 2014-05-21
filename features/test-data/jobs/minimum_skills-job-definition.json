@@ -1,0 +1,35 @@
+{
+    "title": "MinimumSkillsJobTitle",
+    "description": "Minimum Skills Job Description...",
+    "work_type": "Remote",
+    "time_length_onsite": "",
+    "desired_commitment": "part_time",
+    "tz_preference": "yes",
+    "time_zone": "Azores",
+    "hours_overlap": "4",
+    "desired_start_date_offset": "15",
+    "estimated_length": "2-3 months",
+    "languages": [
+        "English"
+    ],
+    "skills": {
+        "Languages": {
+            "Ruby": "Competent"
+        },
+        "Frameworks": {
+        },
+        "Libraries\/APIs": {
+        },
+        "Tools": {
+            "Lightroom": "Competent"
+        },
+        "Paradigms": {
+        },
+        "Platforms": {
+        },
+        "Storage": {
+        },
+        "Misc": {
+        }
+    }
+}

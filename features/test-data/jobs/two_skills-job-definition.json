@@ -1,0 +1,35 @@
+{
+    "title": "TwoSkillsJobTitle",
+    "description": "Two Skills in one category Job Description...",
+    "work_type": "Mixed",
+    "time_length_onsite": "20%",
+    "desired_commitment": "hourly",
+    "tz_preference": "yes",
+    "time_zone": "Azores",
+    "hours_overlap": "4",
+    "desired_start_date_offset": "15",
+    "estimated_length": "2-3 months",
+    "languages": [
+        "English"
+    ],
+    "skills": {
+        "Languages": {
+            "Ruby": "Competent",
+            "Java": "Strong"
+        },
+        "Frameworks": {
+        },
+        "Libraries\/APIs": {
+        },
+        "Tools": {
+        },
+        "Paradigms": {
+        },
+        "Platforms": {
+        },
+        "Storage": {
+        },
+        "Misc": {
+        }
+    }
+}
